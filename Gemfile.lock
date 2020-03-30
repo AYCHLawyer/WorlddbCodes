@@ -31,7 +31,7 @@ GEM
     minitest (5.4.3)
     pg (0.17.1)
     props (1.1.1)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     rubyzip (1.1.6)
